@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="title">Number Guessing Game</string>
+    <string name="message">Please select a number of digits.
+        The number of digits that  i keep in my mind and
+        the number of digits you will guess will be the same.
+        Also, never forget that you have 10 guesses. Goodluck!
+    </string>
+    <string name="rb2">Two Digit Number</string>
+    <string name="rb3">Three Digit Number</string>
+    <string name="rb4">Four Digit Number</string>
+    <string name="btnStart">start</string>
+    <string name="message_title">Please select a number of digits</string>
+    <string name="last">Your Last Guess :</string>
+    <string name="guess">Your Remaining Guess :</string>
+    <string name="confirm">confirm</string>
+    <string name="toast">Please Enter Your Guess</string>
+    <string name="hintGreat">Decrease Your Guess</string>
+    <string name="hintLower">Increase Your Guess</string>
+    <string name="alert_title">Number Guessing Game</string>
+    <string name="congrats1">"Congratulations. My number was   "</string>
+    <string name="congrats2">You know my number in </string>
+    <string name="congrats3">" attempts. "</string>
+    <string name="congrats4"> Your guesses : </string>
+    <string name="congrats5"> Would you like to play again? </string>
+    <string name="yes"> Yes </string>
+    <string name="no"> No </string>
+    <string name="edithint">Enter Your Guess</string>
+    <string name="lose1"> Sorry, your guess attempt is over. My number was </string>
+    <string name="lose2"> You try to guess my number in </string>
+</resources>

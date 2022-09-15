@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Meneka Nombor</string>
+    <string name="title">Permainan Meneka Nombor</string>
+    <string name="message">Sila pilih digit nombor untuk bermain.
+        Bilangan digit nombor yang saya fikirkan adalah
+        sama dengan nombor digit yang awak akan teka.
+        Jangan lupa anda hanya ada 10 tekaan sahaja. Semoga berjaya!
+    </string>
+    <string name="rb2">Dua Digit Nombor</string>
+    <string name="rb3">Tiga Digit Nombor</string>
+    <string name="rb4">Empat Digit Nombor</string>
+    <string name="btnStart">mula</string>
+    <string name="message_title">Sila pilih bilangan digit</string>
+    <string name="last">Tekaan Terakhir Anda :</string>
+    <string name="guess">Bilangan Cubaan Anda :</string>
+    <string name="confirm">sahkan</string>
+    <string name="toast">Sila Masukkan Tekaan Anda</string>
+    <string name="hintGreat">Rendahkan Tekaan Anda</string>
+    <string name="hintLower">Tingkatkan Tekaan Anda</string>
+    <string name="alert_title">Game Meneka Nombor</string>
+    <string name="congrats1">"Tahniah. Nombor saya adalah "</string>
+    <string name="congrats2">"Anda tahu nombor saya dalam "</string>
+    <string name="congrats3">" cubaan."</string>
+    <string name="congrats4">" Tekaan anda : "</string>
+    <string name="congrats5">" Adakah anda mahu bermain lagi? "</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="edithint">Masukkan Tekaan Anda</string>
+    <string name="lose1">"Maaf, cubaan meneka anda telah habis. Nombor saya adalah  "</string>
+    <string name="lose2">" Anda cuba meneka nombor saya dengan "</string>
+</resources>
